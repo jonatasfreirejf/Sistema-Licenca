@@ -14,6 +14,6 @@ Você tem integrar com a rota "www.seusite.com/BASE/api/validar-licenca.php", vo
 
 O código de ativação, ou seja, a chave(key) você deve gerar com sua linguagem dentro do seu sistema. Você pegar dados unico do computador como Mac da placa de rede integrada a placa mãe de fábrica ou informações da Bios e Outros. Para não ficar extenso o código de ativação, você deve gerar um hash do dados e formatar da maneira que achar melhor.
 
-#Exemplo
+# Exemplo
 Esse sistema que desenvolvi, instalei na empresa Atlanta Sistema e no softwares deles.
 ![Screenshot](2020-08-23.png)
