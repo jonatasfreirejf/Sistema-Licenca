@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AC",
+				"action\tAttr"
+			],
+			[
+				"data",
+				"data_atual"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"da",
+				"dados_vencimento"
+			],
+			[
+				"dados",
+				"dados_cliente"
+			],
+			[
+				"m",
+				"minlength\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"_P",
+				"_POST"
+			],
+			[
+				"_p",
+				"_POST"
+			],
+			[
+				"Lice",
+				"licenca"
+			],
+			[
+				"if",
+				"if\tPHP: if statement"
+			],
+			[
+				"i",
+				"i\tPHP: interface definition"
+			],
+			[
+				"so",
+				"solicitar"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"nom",
+				"nome_software"
+			],
+			[
+				"selec",
+				"selected_option"
+			],
+			[
+				"sele",
+				"selected_option"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4.4"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"cone",
+				"conectar_pdo()\tmixed"
+			],
+			[
+				"pu",
+				"pubs\tPHP: public static class method declaration"
+			],
+			[
+				"Tr",
+				"try"
+			],
+			[
+				"for",
+				"foreach\tPHP: foreach {value} statement"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"codi",
+				"Codigo"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"d",
+				"dados"
+			],
+			[
+				"COD",
+				"codigo_ativacao"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"db",
+				"dba_insert"
+			],
+			[
+				"co",
+				"codigo_ativacao"
+			],
+			[
+				"dad",
+				"dados"
+			],
+			[
+				"li",
+				"licenca"
+			],
+			[
+				"dado",
+				"dados"
+			],
+			[
+				"noo",
+				"nome_software"
+			],
+			[
+				"fun",
+				"fun\tPHP: function definition"
+			],
+			[
+				"id",
+				"id_cliente"
+			],
+			[
+				"ar",
+				"array\tPHP: Initialise a variable with an array"
+			],
+			[
+				"ca",
+				"categoria"
+			],
+			[
+				"t",
+				"try\tPHP: Wrap in try { ... } catch (...) { ... }"
+			],
+			[
+				"cl",
+				"cliente"
+			],
+			[
+				"col-sm",
+				"col-sm-4 \tBootstrap 4.4"
+			],
+			[
+				"req",
+				"req1\tPHP: require_once expression"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4.4"
+			],
+			[
+				"c",
+				"container \tBootstrap 4.4"
+			],
+			[
+				"a",
+				"array\tPHP: Initialise a variable with an array"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"clin",
+				"clientes"
+			],
+			[
+				"e",
+				"endereco"
+			],
+			[
+				"array",
+				"array\t$… = array (…)"
+			],
+			[
+				"tele",
+				"telefone_fixo"
+			],
+			[
+				"D",
+				"DadosClientes"
+			],
+			[
+				"Da",
+				"SetDadosClientes"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"data_",
+				"data_liberar"
+			],
+			[
+				"afi",
+				"afiliado_dados"
+			],
+			[
+				"val",
+				"valor_transferencia"
+			],
+			[
+				"af",
+				"afd"
+			],
+			[
+				"id_",
+				"id_produto"
+			],
+			[
+				"v",
+				"valor_restante"
+			],
+			[
+				"b",
+				"background-repeat\tproperty"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"comiss",
+				"comissao"
+			],
+			[
+				"Ge",
+				"GetDados_Comissao"
+			],
+			[
+				"lo",
+				"loop\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"age",
+				"agencia_banco"
+			],
+			[
+				"num",
+				"numero_banco"
+			],
+			[
+				"te",
+				"telefone_fixo"
+			],
+			[
+				"na",
+				"nova_senha"
+			],
+			[
+				"n",
+				"n_liberado"
+			],
+			[
+				"comi",
+				"comissao"
+			],
+			[
+				"va",
+				"valor_calculado"
+			],
+			[
+				"pe",
+				"porcetagem"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"PA",
+				"pagina"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"sess",
+				"sessao"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"S",
+				"Selecionar_Afiliado"
+			],
+			[
+				"Se",
+				"SetDados_afiliados"
+			],
+			[
+				"R",
+				"required\tAttr"
+			],
+			[
+				"ENT",
+				"entrar"
+			],
+			[
+				"no",
+				"nome_produto"
+			],
+			[
+				"nome",
+				"nome_produto"
+			],
+			[
+				"pr",
+				"produto"
+			],
+			[
+				"Get",
+				"GetDados_Vendas"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"Usu",
+				"Usuário"
+			],
+			[
+				"U",
+				"Usuário"
+			],
+			[
+				"ad",
+				"afiliado"
+			],
+			[
+				"A",
+				"afd"
+			],
+			[
+				"usu",
+				"usuarios"
+			],
+			[
+				"tipo",
+				"tipo_pessoa"
+			],
+			[
+				"N",
+				"nome_do_banco"
+			],
+			[
+				"con",
+				"conta_banco"
+			],
+			[
+				"nu",
+				"numero_banco"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"telef",
+				"telefone_fixo"
+			],
+			[
+				"AFI",
+				"afiliados"
+			],
+			[
+				"cm",
+				"comissao"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"end",
+				"endereco"
+			],
+			[
+				"pre",
+				"preco"
+			],
+			[
+				"L",
+				"link_de_pagamento"
+			],
+			[
+				"desc",
+				"descricao"
+			],
+			[
+				"SA",
+				"salvar"
+			],
+			[
+				"p",
+				"produto"
+			],
+			[
+				"M",
+				"modulo"
+			],
+			[
+				"link",
+				"link_de_pagamento"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: danger"
+			],
+			[
+				"me",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Sistema-Licenca",
+		"/C/xampp/htdocs/Sistema-Licenca/api",
+		"/C/xampp/htdocs/Sistema-Licenca/assets",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/bdados",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/licenca",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/login",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/seguranca",
+		"/C/xampp/htdocs/Sistema-Licenca/components",
+		"/C/xampp/htdocs/Sistema-Licenca/libs",
+		"/C/xampp/htdocs/Sistema-Licenca/libs/cookies",
+		"/C/xampp/htdocs/Sistema-Licenca/libs/import_src",
+		"/C/xampp/htdocs/Sistema-Licenca/pages",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/usuarios",
+		"/C/xampp/htdocs/Sistema-Licenca/solicitar-licenca",
+		"/C/xampp/htdocs/Sistema-Licenca/src",
+		"/C/xampp/htdocs/Sistema-Licenca/src/dist",
+		"/C/xampp/htdocs/Sistema-Licenca/src/dist/css",
+		"/C/xampp/htdocs/Sistema-Licenca/src/dist/css/alt",
+		"/C/xampp/htdocs/Sistema-Licenca/src/dist/img",
+		"/C/xampp/htdocs/Sistema-Licenca/src/docs",
+		"/C/xampp/htdocs/Sistema-Licenca/src/plugins"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Sistema-Licenca/libs/import_src/index.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/seguranca/autenticacao_admin.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/licenca/Licenca_class.php",
+		"/C/Users/JF Startup Studio/source/repos/SoftZAP - Turbo Grupos/SoftZAP - Turbo Grupos/modulos/essencial.vb",
+		"/C/Users/JF Startup Studio/Downloads/Avaliação de competencias da equipe (1).docx",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-2/conexao 2.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-2/conexao.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/clientes/Cliente_Class.php",
+		"/C/xampp/htdocs/Sistema-Licenca/solicitar-licenca/solicitar-licenca.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/bdados/sql.php",
+		"/C/xampp/htdocs/meu site/gerador-de-vsl-online/index.php",
+		"/C/xampp/htdocs/meu site/.htaccess",
+		"/C/xampp/htdocs/Sistema-Licenca/.htaccess",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/editar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/buscar.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-2/autenticacao_admin.php",
+		"/C/xampp/htdocs/Sistema-Licenca/solicitar-licenca/.htaccess",
+		"/C/xampp/htdocs/Sistema-Licenca/solicitar-licenca/index.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/listar-pagas.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/listar-teste.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/listar-vencidos.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/listar-aguardando-aprovacoes.php",
+		"/C/xampp/htdocs/Sistema-Licenca/solicitar-licenca/login.php",
+		"/C/xampp/htdocs/Sistema-Licenca/solicitar-licenca/consultar-cpf.php",
+		"/C/Users/JF Startup Studio/Desktop/SoftZAP---Turbo-Grupos-master/SoftZAP - Turbo Grupos/bin/Release/asempreedimentos.dll.config",
+		"/C/Users/JF Startup Studio/AppData/Local/AS_Empreedimentos/SoftZAP_-_Turbo_Grupos.ex_Url_wdcdfpziinzf4xp4mnujhumf5m5aboye/1.0.0.0/user.config",
+		"/C/Users/JF Startup Studio/AppData/Local/SoftZAP___Turbo_Grupos/SoftZAP_-_Turbo_Grupos.ex_Url_1dytre1gqxklsnqpwutx4ew5yz3nw5hm/1.0.0.0/user.config",
+		"/C/Users/JF Startup Studio/Desktop/SoftZAP---Turbo-Grupos-master/SoftZAP - Turbo Grupos/bin/Release/asempreedimentos.xml",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/.htaccess",
+		"/C/xampp/htdocs/Sistema-Licenca/login.php",
+		"/C/xampp/htdocs/meu site/gerador-de-vsl-online/gerar_vsl.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/Select_lib.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/visualizar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/bdados/conexao.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/excluir.php",
+		"/C/xampp/htdocs/Sistema-Licenca/api/validar_licenca.php",
+		"/C/Users/JF Startup Studio/source/repos/FaceMarketing - Extrator/FaceMarketing - Extrator/Form1.vb",
+		"/C/Users/JF Startup Studio/zapgrupos/package.json",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/afiliados/visualizar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/head.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/footer.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/script.php",
+		"/C/xampp/htdocs/Sistema-Licenca/index.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/components/header.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/header.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/components/menu.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/menu.php",
+		"/C/xampp/htdocs/Sistema-Licenca/sair.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/index.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/produtos/Produtos_Class.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/produtos/listar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/usuarios/editar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/login/admin/usuarios.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/usuarios/novo.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/usuarios/excluir.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/usuarios/listar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/seguranca/autenticacao_afs.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/clientes/visualizar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/licenca/visulizar.php",
+		"/C/xampp/htdocs/Sistema-Licenca/pages/clientes/listar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/index.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/components/paginacao.php",
+		"/C/Users/JF Startup Studio/AppData/Roaming/Sublime Text 3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/index.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/bdclass/conexao.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/bdclass/index.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/bdclass/sql.php",
+		"/C/xampp/htdocs/Sistema-Licenca/assets/seguranca/tratar_dados.php",
+		"/C/xampp/htdocs/Sistema-Licenca/components/paginacao.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/bdados/conexao.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/login.php",
+		"/C/Users/JF Startup Studio/Pictures/index.html",
+		"/C/Users/JF Startup Studio/Projetos React Native/People/android/app/build/outputs/apk/debug/output.json",
+		"/C/Users/JF Startup Studio/Documents/Nova pasta/siteDeFofocas2.html",
+		"/C/Users/JF Startup Studio/Documents/MEGA/livros/0125segredosdalbia-desbloqueado.pdf",
+		"/C/Users/JF Startup Studio/Documents/Nova pasta/SitedeFofocasBBBMariah.html",
+		"/C/Users/JF Startup Studio/Pictures/Projeto/index.txt",
+		"/C/Users/JF Startup Studio/Pictures/Projeto/index.jpeg",
+		"/C/Users/JF Startup Studio/Pictures/Projeto/index.jpg",
+		"/C/Users/JF Startup Studio/Downloads/jfstartu_jfstartupstudio.sql",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/plugins/datatables-autofill/js/dataTables.autoFill.js",
+		"/C/Users/JF Startup Studio/AppData/Local/SoftZapTurboGrupos/accounts/Conta1_87764148/Default/Cookies",
+		"/C/Users/JF Startup Studio/AppData/Local/BulkWhatsappSender/Accounts.xml",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/vendas/Comissao_class.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/pagamentos/pagos.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/pages/minha_conta/dados_pessoais.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/pagamentos/efetuar-pagamento.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/sair.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/components/header.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/sair.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-3/autenticacao_admin.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/pages/home/index.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/login.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-3/index 2.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/components/footer.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-3/pagar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/home/index.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/afiliados/afiliados_class.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-3/autenticacao_afs.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/vendas/aprovar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/vendas/visualizar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/vendas/vendas-cancelados.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/pagamentos/pagar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/afiliados/pagamento_class.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/vendas/vendas_class.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/dist/css/alt/adminlte.core.css",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/afiliados/listar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/vendas/cancelar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/vendas/vendas-aprovados.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/seguranca/autenticacao_afs.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/afiliados/desbloquear.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/afiliados/bloquear.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/pages/vendas/listar.php",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-3/conexao.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/afiliados/editar.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/vendas/vendas-aguardando-aprovacao.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/index.html",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/.github/ISSUE_TEMPLATE/feature-request-for-adminlte-v3-x.md",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/.github/ISSUE_TEMPLATE/bug-report-for-adminlte-v3-x.md",
+		"/C/Users/JF Startup Studio/AppData/Local/Temp/fz3temp-2/autenticacao_afs.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/admin/pages/usuarios/novo.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/pages/minha_conta/alterar_senha.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/assets/afiliados/BancoPagamento_class.php",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/.htaccess",
+		"/C/xampp/htdocs/MarraFit - Sistema de Afiliado/afiliado/components/screen.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\Sistema-Licenca\\solicitar-licenca"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Valid last name is required.",
+			" '",
+			"require_once '././assets/clientes/Cliente_Class.php';"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Incompleto"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sistema de  Licenca.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

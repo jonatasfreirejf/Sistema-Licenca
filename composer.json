@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/Sistema-Licenca",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "JF Startup Studio",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
