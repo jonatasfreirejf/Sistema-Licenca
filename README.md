@@ -9,5 +9,9 @@ A pessoa que comprar, pode simplesmente tirar uma cópia e revender ou distribui
 Na pasta "assets/Config" tem 2 arquivos php, onde você deve configurar os dados de acesso ao banco de dados criado e routes configurar a "BASE", ou seja, qual pasta ele foi instalado dentro no servidor.
 Exemplo: Se ele foi instalado em uma pasta chamado "admin", você deve colocar em "BASE" o nome da pasta que é "admin, porque quando chamar "www.seusite.com/admin" ele carregará o sistema dentro dessa rota.
 
+# Integração
+Você tem integrar com a rota "www.seusite.com/BASE/api/validar-licenca.php", você deve enviar pelo método GET a query "codigo_ativacao", onde o sistema retornará os dados da licença em JSON como informação se existe, se está ativo, qual a categoria(Teste, Paga, Aguardando) e validade, caso se tiver cadastro o cliente com aquele código, ele retornará os dados do cliente.
+
+O código de ativação, ou seja, a chave(key) você deve gerar com sua linguagem dentro do seu sistema. Você pegar dados unico do computador como Mac da placa de rede integrada a placa mãe de fábrica ou informações da Bios e Outros. Para não ficar extenso o código de ativação, você deve gerar um hash do dados e formatar da maneira que achar melhor.
 
 
