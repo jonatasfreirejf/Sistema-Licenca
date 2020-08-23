@@ -20,8 +20,8 @@ Esse sistema que desenvolvi, instalei na empresa Atlanta Sistema e no softwares 
 
 ![Screenshot](Screenshot/2020-08-23%20(6).png)
 
-![Screenshot](Screenshot/2020-08-23 (7).png)
+![Screenshot](Screenshot/2020-08-23%20(7).png)
 
-![Screenshot](Screenshot/2020-08-23 (8).png)
+![Screenshot](Screenshot/2020-08-23%20(8).png)
 
-![Screenshot](Screenshot/2020-08-23 (9).png)
+![Screenshot](Screenshot/2020-08-23%20(9).png)
